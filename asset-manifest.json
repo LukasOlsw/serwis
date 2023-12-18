@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/serwis/static/css/main.dc4d6ff2.css",
+    "main.js": "/serwis/static/js/main.7de7cbf9.js",
+    "static/js/787.55c819e8.chunk.js": "/serwis/static/js/787.55c819e8.chunk.js",
+    "index.html": "/serwis/index.html",
+    "main.dc4d6ff2.css.map": "/serwis/static/css/main.dc4d6ff2.css.map",
+    "main.7de7cbf9.js.map": "/serwis/static/js/main.7de7cbf9.js.map",
+    "787.55c819e8.chunk.js.map": "/serwis/static/js/787.55c819e8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.7de7cbf9.js"
+  ]
+}
